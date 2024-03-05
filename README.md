@@ -16,11 +16,6 @@ Software Engineer
 
 <a href="https://www.github.com/Krishanu321" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Krishanu321?logo=github&style=for-the-badge&color=10b981&labelColor=0f172a" /></a>
-# My GitHub Profile
-
-Welcome to my GitHub profile! Feel free to explore my repositories.
-
-![Profile Views](https://github.com/Krishanu321)
 ### Skills
 
 <p align="left">
