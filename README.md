@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech. 
+👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech.
+
 👩🏻‍🎓 Studying Computer Science at the Kalyani Government Engineering College.
 
 * 🌍  I'm based in India
