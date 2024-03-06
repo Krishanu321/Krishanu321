@@ -10,7 +10,6 @@ Software Engineer
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [krishanusantra345@gmail.com](mailto:krishanusantra345@gmail.com)
-* 🚀  I'm currently working on [Medicare-Booking-System](http://github.com/Krishanu321/Medicare-Booking-System)
 * 🧠  I'm learning MERN Stack, C++, DSA.
 * 🤝  I'm open to collaborating on Other drone projects!
 
