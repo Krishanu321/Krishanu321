@@ -13,7 +13,7 @@ Software Engineer
 * 🧠  I'm learning MERN Stack, C++, DSA.
 * 🤝  I'm open to collaborating on Other drone projects!
 
-https://visitcount.itsvg.in/api?id=GeraudLuku&icon=4&color=0 
+[![](https://visitcount.itsvg.in/api?id=GeraudLuku&icon=4&color=0)](https:visitcount.itsvg.in)
 <a href="https://www.github.com/Krishanu321" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Krishanu321?logo=github&style=for-the-badge&color=10b981&labelColor=0f172a" /></a>
 ### Skills
@@ -26,8 +26,6 @@ src="https://img.shields.io/github/followers/Krishanu321?logo=github&style=for-t
 
 <p align="left"> <a href="https://discord.com/users/_krish_2003" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Krishanu321" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/krishanu_1103/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/krishanu-santra-ks2003/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 ### Badges
-
-<b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Krishanu321"><img src="https://github-readme-stats.vercel.app/api?username=Krishanu321&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=10b981&bg_color=0f172a&hide_border=true&show_icons=true" alt="Krishanu321's GitHub stats" /></a>
 
