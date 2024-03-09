@@ -13,7 +13,7 @@ Software Engineer
 * 🧠  I'm learning MERN Stack, C++, DSA.
 * 🤝  I'm open to collaborating on Other drone projects!
 
-[![](https://visitcount.itsvg.in/api?id=GeraudLuku&icon=4&color=0)](https:visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=GeraudLuku&icon=4&color=0)](https:visitcount.itsvg.in) 
 <a href="https://www.github.com/Krishanu321" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Krishanu321?logo=github&style=for-the-badge&color=10b981&labelColor=0f172a" /></a>
 ### Skills
