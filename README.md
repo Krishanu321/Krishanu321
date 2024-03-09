@@ -6,7 +6,7 @@ Software Engineer
 
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech.
 
-👩🏻‍🎓 Studying Computer Science at the Kalyani Government Engineering College.
+👩🏻‍🎓 Studying Computer Science at Kalyani Government Engineering College.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [krishanusantra345@gmail.com](mailto:krishanusantra345@gmail.com)
