@@ -1,8 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Krishanu Santra
+![logo](https://github.com/Krishanu321/Krishanu321/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Krishanu Santra
 =======================================================================================================================================
-
-Software Engineer
+Computer Science Engineering
 -----------------
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
+
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech.
 
 👩🏻‍🎓 Studying Computer Science at Kalyani Government Engineering College.
@@ -25,8 +27,8 @@ src="https://img.shields.io/github/followers/Krishanu321?logo=github&style=for-t
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/_krish_2003" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Krishanu321" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/krishanu_1103/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/krishanu-santra-ks2003/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-### Badges
 
+### Badges
 <a href="http://www.github.com/Krishanu321"><img src="https://github-readme-stats.vercel.app/api?username=Krishanu321&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=10b981&bg_color=0f172a&hide_border=true&show_icons=true" alt="Krishanu321's GitHub stats" /></a>
 
 <a href="http://www.github.com/Krishanu321"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishanu321&stroke=ffffff&background=0f172a&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
