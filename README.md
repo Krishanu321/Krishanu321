@@ -3,8 +3,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Software Engineer
 -----------------
-<img align="right" alt="coding" width="400" src="![image](https://github.com/Krishanu321/Krishanu321/assets/125211610/96cd0209-d092-41f2-b69b-98a7e9c3e1be)
-"
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech.
 
 👩🏻‍🎓 Studying Computer Science at Kalyani Government Engineering College.
