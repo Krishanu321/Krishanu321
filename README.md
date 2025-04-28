@@ -8,9 +8,9 @@
 
 ### **About Me**
 - 🔭 Currently working on **MERN Stack & DSA**
-- 🌱 Learning **Web3, Blockchain & Cloud Computing**
+- 🌱 Learning **Web3, SAP ABAP**
 - 👯 Looking to collaborate on **Drone Tech & Open Source Projects**
-- 📫 Reach me: **krishanusantra345@gmail.com**
+- 📫 Reach me: **krisho.ca@gmail.com**
 - ⚡ Fun fact: **I love automating boring tasks!**
 
 ---
