@@ -1,3 +1,5 @@
+![logo](https://github.com/Krishanu321/Krishanu321/blob/main/Blue%20and%20White%20Professional%20Business%20LinkedIn%20Career%20Page%20Background.png)
+
 # 👋 Hi there! I'm Krishanu Santra
 
 🎓 **Computer Science Engineer** | 💻 **MERN Stack Developer** | 🚀 **Open Source Contributor**
