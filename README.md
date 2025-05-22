@@ -54,25 +54,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
----
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-  <!-- GitHub Stats Cards -->
-  <a href="https://github.com/Krishanu321">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Krishanu321&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishanu321&layout=compact&theme=radical&hide=html,css"/>
-  </a>
-  
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishanu321&theme=radical" alt="Krishanu321" />
-  
-  <!-- Trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Krishanu321&theme=radical&no-frame=true&row=1&margin-w=15" alt="Krishanu321" />
-
-</div>
 
 ---
 
