@@ -15,8 +15,8 @@
   <img align="right" alt="Coding" width="330" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 
   ### 🚀 About Me
-  - 🔭 **Currently:** Building MERN stack applications & mastering DSA
-  - 🌱 **Learning:** Web3, SaaS, Advanced TypeScript
+  - 🔭 **Currently:** Building MERN stack applications & DSA
+  - 🌱 **Learning:** Web3, SaaS, TypeScript
   - 👯 **Collaborating:** Drone Tech & Open Source Projects
   - 💡 **Interests:** API development, Automation, Cloud Architecture
   - 📫 **Reach me:** krisho.ca@gmail.com
