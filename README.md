@@ -8,7 +8,7 @@
 
 ### **About Me**
 - 🔭 Currently working on **MERN Stack & DSA**
-- 🌱 Learning **Web3, SAP ABAP, Advanced TypeScript**
+- 🌱 Learning **Web3, SaaS, Advanced TypeScript**
 - 👯 Looking to collaborate on **Drone Tech & Open Source Projects**
 - 📫 Reach me: **krisho.ca@gmail.com**
 - ⚡ Fun fact: **I love automating boring tasks!**
